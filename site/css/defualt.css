@@ -776,6 +776,7 @@ header nav ul li a:hover {
   padding: 142px 0;
   box-sizing: border-box;
   background: url(../images/video_bg.jpg) no-repeat;
+  background-size: cover;
 }
 .partners li {
   width: 270px;
